@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "//juanjohn11.github.io/react-portfolio-john-enriquez/static/css/main.5058d40b.css",
+    "main.js": "//juanjohn11.github.io/react-portfolio-john-enriquez/static/js/main.41c9d993.js",
+    "static/js/787.a5af38ed.chunk.js": "//juanjohn11.github.io/react-portfolio-john-enriquez/static/js/787.a5af38ed.chunk.js",
+    "static/media/runbuddy.png": "//juanjohn11.github.io/react-portfolio-john-enriquez/static/media/runbuddy.8559c93c11bd8fda9362.png",
+    "static/media/consolethis.png": "//juanjohn11.github.io/react-portfolio-john-enriquez/static/media/consolethis.f4483705c63a1e453b3d.png",
+    "static/media/CHK.jpeg": "//juanjohn11.github.io/react-portfolio-john-enriquez/static/media/CHK.bbcb4a3d9b313faf2877.jpeg",
+    "static/media/artmart.png": "//juanjohn11.github.io/react-portfolio-john-enriquez/static/media/artmart.9144802ac8903da234dc.png",
+    "index.html": "//juanjohn11.github.io/react-portfolio-john-enriquez/index.html",
+    "main.5058d40b.css.map": "//juanjohn11.github.io/react-portfolio-john-enriquez/static/css/main.5058d40b.css.map",
+    "main.41c9d993.js.map": "//juanjohn11.github.io/react-portfolio-john-enriquez/static/js/main.41c9d993.js.map",
+    "787.a5af38ed.chunk.js.map": "//juanjohn11.github.io/react-portfolio-john-enriquez/static/js/787.a5af38ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5058d40b.css",
+    "static/js/main.41c9d993.js"
+  ]
+}
